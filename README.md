@@ -1,6 +1,6 @@
-springMVC + spring4.3.10  + mybatis3.4.4 +maven 项目框架<br/>
+SpringMVC + Spring4.3.10  + MyBatis3.4.4 +Maven 项目框架<br/>
 ===================================  
-注意：首先我们来罗列一下Spring4.x的大变化。  
+注意：首先来罗列一下Spring4.x的大变化。  
 -----------------------------------  
 1、支持JDK8 。
 2、Groovy Bean Definition DSL 风格配置。
